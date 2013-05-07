@@ -1,0 +1,16 @@
+{
+  "name": "catsocket_js",
+  "repo": "darthdeus/catsocket_js",
+  "description": "JavaScript client for CatSocket",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
